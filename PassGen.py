@@ -1,6 +1,8 @@
 # This a password Generator using "Python" it's a open-source project
 # Devloped by Gowshik.
-# Instagram - @igowshikofficial 
+# Linkedin - Gowshik Anbu : www.linkedin.com/in/gowshik-anbu-1123382b1
+# Instagram - @igowshikofficial : https://www.instagram.com/igowshikofficial/
+# Github - https://github.com/Gowshikgit
 # Gmail - gowshikofficia18@gmail.com
 # Thank you
 
